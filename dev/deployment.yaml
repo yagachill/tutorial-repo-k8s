@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: ghcr.io/yagachill/docker-lab:2b707b842945d07c81cdebb5327dc54cd700e6f7
+          image: ghcr.io/yagachill/docker-lab:aa33248223088b0171085861cde9436bf18acf4a
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
